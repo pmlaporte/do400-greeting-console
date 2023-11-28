@@ -20,8 +20,7 @@ pipeline{
                 sh "npm test"
             }
         }
-
-        // Add the Release stage here
+	
 	stage('Release') {
 	    steps {
 		sh '''
