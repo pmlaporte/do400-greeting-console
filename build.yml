@@ -16,4 +16,4 @@ spec:
       kind: DockerImage
       name: quay.io/pmlaporte/greeting-console
     pushSecret:
-      name: J97vccf3mzPSiXJxUqav/NlBXb64CZehGYVfVelwu/pVwdARV6S4GPlcRdwk7q7R 
+      name: quay.credentials 
